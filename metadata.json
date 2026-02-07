@@ -1,0 +1,8 @@
+{
+  "name": "FitMaster AI - Personal Trainer",
+  "description": "A high-performance personal training companion featuring calorie tracking, AI-powered workout plans, and real-time coaching using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
